@@ -1,0 +1,33 @@
+1. Ouvrir le terminal
+Ouvrir un terminal dans le dossier où se trouve game.py.
+
+Sur Windows :
+
+Maj + clic droit dans le dossier -> Ouvrir dans le terminal
+
+OU
+
+Dans l'explorateur -> taper cmd dans la barre d’adresse
+
+
+2. Installer Python
+Si Python n'sest pas installé, le télécharger ici :
+https://www.python.org/downloads/
+
+Cocher Add Python to PATH pendant l'installation.
+
+
+3. Vérifier Python et pip
+Dans le terminal :
+python --version
+pip --version
+
+
+4. Installer Pygame
+Toujours dans le terminal :
+pip install pygame
+
+5. Lancer le jeu
+Dans le même dossier que game.py :
+python .\game.py
+
